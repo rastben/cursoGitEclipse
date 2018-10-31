@@ -1,4 +1,4 @@
- aque añado mis cambios de la caracteristica uno
+ aque aÃ±ado mis cambios de la caracteristica uno
  
  Cambio rama 2
  
@@ -6,6 +6,8 @@
  
  Cambio olvidado
  
- Añando para subir al servidor
+ AÃ±ando para subir al servidor
  
  Otro cambio sin push
+ 
+ Cambio abajo
