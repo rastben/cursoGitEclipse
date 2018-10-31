@@ -1,3 +1,5 @@
  aque añado mis cambios de la caracteristica uno
  
  Cambio rama 2
+ 
+ Cambio para fastForward
