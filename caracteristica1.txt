@@ -2,6 +2,8 @@
  
  cambio 2 local
  
+ cambio 2 remote
+ 
 aque añado mis cambios de la caracteristica uno
  
  Cambio rama 2
