@@ -1,4 +1,6 @@
- aque añado mis cambios de la caracteristica uno
+ Cambio arriba
+ 
+ aqui añado mis cambios de la caracteristica uno
  
  Cambio rama 2
  
@@ -9,3 +11,5 @@
  Añando para subir al servidor
  
  Otro cambio sin push
+ 
+ 
