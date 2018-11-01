@@ -17,3 +17,5 @@ aque añado mis cambios de la caracteristica uno
  Otro cambio sin push
  
  Cambio abajo
+ 
+ Nuevos cambios incompletos
